@@ -172,19 +172,3 @@ LinkedIn: https://www.linkedin.com/in/jiten-moni-3045b7265/
 
 GitHub: https://github.com/jiten54
 
-🏁 Final Note
-
-This project represents a vision of autonomous AI infrastructure where systems learn, adapt, and evolve in real-time.
-
-
----
-
-If you want next level upgrade 🔥  
-I can make:
-- badges (stars, tech, license)  
-- animated GIF preview  
-- CERN-focused version (to boost your selection chances 🚀) 
-
----
-
-## 🧱 System Architecture
