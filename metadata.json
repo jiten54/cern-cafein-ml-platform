@@ -1,0 +1,5 @@
+{
+  "name": "CERN CAFEIN ML Platform",
+  "description": "A dashboard for managing and monitoring machine learning applications on the CAFEIN platform at CERN, featuring MLOps, Federated Learning, and Anomaly Detection.",
+  "requestFramePermissions": []
+}
