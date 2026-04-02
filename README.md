@@ -10,12 +10,15 @@
 - Anomaly Detection & Segmentation
 - Generative AI (LLMs, RAG Systems)
 - Federated Learning (privacy-preserving ML)
+- 
 
 ---
 
 ### 🐍 Programming & Frameworks<img width="1920" height="853" alt="Screenshot 2026-04-02 114008" src="https://github.com/user-attachments/assets/24c80c51-6645-4ac3-acee-f90c4c1ba9d5" />
 
-- Python
+- Python<img width="1916" height="846" alt="Screenshot 2026-04-02 114209" src="https://github.com/user-attachments/assets/a6e33b7e-700a-4a1d-9610-c84eba392796" />
+<img width="1898" height="851" alt="Screenshot 2026-04-02 114248" src="https://github.com/user-attachments/assets/569a1b13-26f2-493b-90bb-1bb267328573" />
+
 - TensorFlow
 - PyTorch
 - Scikit-learn
